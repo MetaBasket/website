@@ -1,2 +1,3 @@
 # website
 https://metabasket.club
+Metabasket provides a unique P2E opportunity by creating a VR-AR based basketball game. The game lets the users shoot the fancy balls and if it is a score the ball itself becomes a reward box giving away free tokens and rewards. Metaverse P2E Basketball game with rewards, gift boxes, fun graphics and simple yet addictive gameplay. Token is used to buy credits to shoot more, choose among various ball and backboard designs and more entertaining features yet to be announced. Everytime the ball is scored it is turned into a gift box rewarding the shooters with unique items.
